@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`theme provider should render <Provider /> 1`] = `
+<ContextProvider
+  value={Object {}}
+>
+  <div>
+    asd
+  </div>
+</ContextProvider>
+`;

@@ -1,0 +1,14 @@
+{
+  "generator-mussia": {
+    "fullstack": true,
+    "render": true,
+    "db": true,
+    "auth": true,
+    "oauth": {
+      "googleAuth": true,
+      "facebookAuth": true,
+      "twitterAuth": true
+    },
+    "io": false
+  }
+}

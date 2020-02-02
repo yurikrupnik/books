@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`providers renders three <Providers /> components 1`] = `
+<AuthProvider>
+  <UsersProvider>
+    <GeneresProvider>
+      <ReviewsProvider>
+        <BooksProvider>
+          <div>
+            asd
+          </div>
+        </BooksProvider>
+      </ReviewsProvider>
+    </GeneresProvider>
+  </UsersProvider>
+</AuthProvider>
+`;
