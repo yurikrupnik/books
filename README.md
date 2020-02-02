@@ -1,5 +1,7 @@
 # React-boilerplate  
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yurikrupnik/books.svg)](https://greenkeeper.io/)
+
 ## Get started
 
 ```
